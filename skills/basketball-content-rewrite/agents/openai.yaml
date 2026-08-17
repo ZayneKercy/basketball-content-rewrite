@@ -1,0 +1,5 @@
+interface:
+  display_name: "篮球内容改写"
+  short_description: "低重合改写虎扑篮球原帖，保留原立场与事实并贴近个人球迷口吻"
+  default_prompt: "使用 $basketball-content-rewrite 按我的球迷口吻改写下面这段虎扑篮球原帖。"
+
